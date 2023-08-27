@@ -39,7 +39,7 @@ echo "  ██║░░██║░░░██║░░░██║░░░█
 echo "  ╚█████╔╝░░░██║░░░╚██████╔╝██║░╚██╗███████╗██║░╚███║       ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝ ";
 echo "  ░╚════╝░░░░╚═╝░░░░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝       ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░ ";
 
-echo -e "${BLUE}                                    https://github.com/alphaotuken/otuken-tools ${NC}"
+echo -e "${BLUE}                                    https://github.com/OtukenBeta/otuken-tools ${NC}"
 echo -e "${RED}                                     [!] This Tool Must Run As ROOT [!]${NC}\n"
 echo -e "${CYAN}              Select Best Option : \n"
 echo -e "${WHITE}              [1] Kali Linux / Parrot-Os (apt)"
