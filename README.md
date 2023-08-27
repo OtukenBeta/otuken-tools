@@ -195,7 +195,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/alphaotuken/otuken-tools.git
+    git clone https://github.com/OtukenBeta/otuken-tools.git
     
     chmod -R 755 otuken-tools  
     
