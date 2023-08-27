@@ -11,7 +11,7 @@
 - [X] Added Tool in wifijamming
 - [X] Added Tool in steganography
 
-
+#### Made by: alphaotuken (TALO)
 
 # Hackingtool Menu 🧰
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
@@ -227,7 +227,7 @@
 <h4>Please Don't Use for illegal Activity, author is not responsible for any misuse.</h4>
 
 ## Join Our Telegram ӨƬЦKΣП
-Telegram: https://t.me/+7e-41potzg80M2M1
-Discord: https://discord.gg/TNmtddnU
+[Telegram](https://t.me/+7e-41potzg80M2M1)
+[Discord](https://discord.gg/jQmCAwRY5n)
 
 #### Good Luck!
