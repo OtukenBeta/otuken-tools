@@ -1,17 +1,17 @@
 # ӨƬЦKΣП-T00l5
 
-## Update Available V1.2.0  
+## Update Available V1.2.0 🚀 
 - [✔] Installation Bug Fixed
 - [x] Added New Tools 
-- [x] Reverse Engineering
-- [x] RAT Tools
-- [x] Web Crawling 
-- [x] Payload Injector
+    - [x] Reverse Engineering
+    - [x] RAT Tools
+    - [x] Web Crawling 
+    - [x] Payload Injector
 - [x] Multitor Tools update
 - [X] Added Tool in wifijamming
 - [X] Added Tool in steganography
 
-#### Made by: alphaotuken (TALO)
+
 
 # Hackingtool Menu 🧰
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
@@ -113,6 +113,7 @@
 - [Bulk extractor](https://github.com/simsong/bulk_extractor)
 - [Disk Clone and ISO Image Acquire](https://guymager.sourceforge.io/)
 - [Toolsley](https://www.toolsley.com/)
+- [Volatility3](https://github.com/volatilityfoundation/volatility3/)
 ### Payload creation tools
 - [The FatRat](https://github.com/Screetsec/TheFatRat)
 - [Brutal](https://github.com/Screetsec/Brutal)
@@ -189,7 +190,6 @@
 - [Gospider](https://github.com/jaeles-project/gospider)
 #### Mix tools
 - Terminal Multiplexer
-
 
 ## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
