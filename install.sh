@@ -87,7 +87,7 @@ if [[ $choice =~ ^[1-2]+$ ]]; then
         fi
         echo "";
         echo -e "${YELLOW}[✔] Downloading otuken-tools...${NC}"
-        if sudo git clone https://github.com/alphaotuken/otuken-tools.git $install_dir; then
+        if sudo git clone https://github.com/OtukenBeta/otuken-tools.git $install_dir; then
             # Install virtual environment
             echo -e "${YELLOW}[*] Installing Virtual Environment...${NC}"
             if [[ $choice == 1 ]]; then
